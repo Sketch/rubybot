@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Starting rubybot ..."
+ruby rubybot.rb >& output &

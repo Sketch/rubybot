@@ -1,0 +1,11 @@
+bucks: USD
+buck: USD
+euros: EUR
+dollar: GBP
+dollars: USD
+yen: JPY
+quid: GBP
+pounds: GBP
+pound: GBP
+peso: MXN
+pesos: MXN

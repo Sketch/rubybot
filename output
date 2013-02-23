@@ -1,0 +1,33 @@
+./config.rb:11: warning: already initialized constant PASSPHRASE
+./config.rb:14: warning: already initialized constant HOST
+./config.rb:15: warning: already initialized constant PORT
+./config.rb:18: warning: already initialized constant LOGIN
+rubybot.rb:76: warning: already initialized constant STDOUT
+rubybot.rb:77: warning: already initialized constant STDERR
+/home/walker/test/walkerbot/lib/timer.rb:40:in `sleep': Interrupt
+	from /home/walker/test/walkerbot/lib/timer.rb:40:in `run'
+	from /home/walker/test/walkerbot/lib/timer.rb:39:in `loop'
+	from /home/walker/test/walkerbot/lib/timer.rb:39:in `run'
+	from rubybot.rb:80
+Loading config ...
+Loading plugin anagram
+Loading plugin test
+Loading plugin talkfilter
+Loading plugin units
+Loading plugin google
+Loading plugin penn
+Loading plugin help
+Loading plugin calc
+Loading plugin what
+Loading plugin fortune
+Loading plugin babel
+Loading plugin spell
+Loading plugin quote
+Loading plugin dictionary
+Loading plugin thesaurus
+Loading plugin bashorg
+Loading plugin reload
+Loading plugin currency
+Loading plugin pennversion
+Passphrase: PASSPHRASE
+host: deafcode.com:4201 with connect walkerbot foobar

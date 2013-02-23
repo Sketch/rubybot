@@ -1,0 +1,169 @@
+From list@en.ucc.xe.net  Mon Sep 27 22:34:00 2004
+Return-Path: <list@en.ucc.xe.net>
+X-Original-To: currency@lethalcode.net
+Delivered-To: currency@lethalcode.net
+Received: from helium.xe.com (helium.xe.com [216.220.38.19])
+	by tyger.lethalcode.net (Postfix) with ESMTP id DFEBD283
+	for <currency@lethalcode.net>; Mon, 27 Sep 2004 22:33:59 -0400 (EDT)
+Received: from helium.xe.com (localhost [127.0.0.1])
+	by helium.xe.com (8.12.11/8.11.1) with SMTP id i8S2Xvf7097211
+	for currency@lethalcode.net; Mon, 27 Sep 2004 22:34:00 -0400 (EDT)
+	(envelope-from list@en.ucc.xe.net)
+Date: Mon, 27 Sep 2004 22:34:00 -0400 (EDT)
+Message-Id: <200409280234.i8S2Xvf7097211@helium.xe.com>
+From: Universal Currency Converter <list@en.ucc.xe.net>
+Reply-To: Currency List <list@en.ucc.xe.net>
+Subject: Today's Currency Update (USD)  CUS70B93FFA02BB
+To: Greg Millam <currency@lethalcode.net>
+Content-Type: text/plain
+X-Mailer: XE.com E-Mail Currency Update Service
+X-Help-Page-Location: http://www.xe.com/cus/sample.htm
+
+<PRE>
+
+XE.com's Currency Update Service writes:
+
+Here is today's Currency Update, a service of XE.com. Please read the
+copyright, terms of use agreement, and information sections at the
+end of this message.  CUS70B93FFA02BB
+____________________________________________________________________________
+        *** Please Read This Brief Message From Today's Sponsor ***
+
+Claim your FREE $/£/€ 75 at Spin Palace Casino NOW!!
+
+Spin Palace Casino is offering a generous 100% Match Sign-On Bonus. That's
+a possible £/$/€ 75 FREE! With 111 fantastic casino games to choose
+from including Blackjack, Poker, Roulette and slots; why not start playing
+today and experience the superior quality that Spin Palace Casino is
+renowned for? With the new 2004 Viper software and payout percentages
+reviewed by PricewaterhouseCoopers Inc. players are assured of a secure and
+safe gaming experience. Click here now...
+
+http://www.spinpalace.com/index.asp?a=19728
+____________________________________________________________________________
+
+Rates as of 2004.09.27 20:02:11 UTC (GMT). Base currency is USD.
+
+Currency Unit                          USD per Unit         Units per USD
+================================   ===================   ===================
+USD United States Dollars                 1.00000               1.00000     
+EUR Euro                                  1.22873               0.813846    
+GBP United Kingdom Pounds                 1.80811               0.553065    
+CAD Canada Dollars                        0.786326              1.27174     
+JPY Japan Yen                             0.00898483          111.299       
+CHF Switzerland Francs                    0.792732              1.26146     
+AFA Afghanistan Afghanis                  0.0228157            43.8295      
+ALL Albania Leke                          0.00982410          101.791       
+DZD Algeria Dinars                        0.0135400            73.8550      
+ARS Argentina Pesos                       0.334113              2.99300     
+AUD Australia Dollars                     0.712318              1.40387     
+BSD Bahamas Dollars                       1.00000               1.00000     
+BBD Barbados Dollars                      0.490677              2.03800     
+BMD Bermuda Dollars                       1.00000               1.00000     
+BRL Brazil Reals                          0.348164              2.87221     
+BGN Bulgaria Leva                         0.629359              1.58892     
+CLP Chile Pesos                           0.00164677          607.250       
+CNY China Yuan Renminbi                   0.120748              8.28170     
+COP Colombia Pesos                        0.000383803        2605.50        
+XOF CFA Francs BCEAO                      0.00187319          533.848       
+CRC Costa Rica Colones                    0.00223509          447.410       
+CYP Cyprus Pounds                         2.12766               0.470000    
+CZK Czech Republic Koruny                 0.0389591            25.6679      
+DKK Denmark Kroner                        0.165219              6.05256     
+XCD East Caribbean Dollars                0.374499              2.67023     
+EGP Egypt Pounds                          0.160097              6.24623     
+FJD Fiji Dollars                          0.573919              1.74241     
+XAU Gold Ounces                         409.092                 0.00244444  
+HKD Hong Kong Dollars                     0.128211              7.79962     
+HUF Hungary Forint                        0.00500448          199.821       
+ISK Iceland Kronur                        0.0140474            71.1877      
+INR India Rupees                          0.0217889            45.8950      
+IDR Indonesia Rupiahs                     0.000108819        9189.57        
+XDR IMF Special Drawing Rights            1.46597               0.682142    
+ILS Israel New Shekels                    0.223578              4.47272     
+JMD Jamaica Dollars                       0.0161830            61.7931      
+JOD Jordan Dinars                         1.41103               0.708700    
+KWD Kuwait Dinars                         3.39363               0.294670    
+LBP Lebanon Pounds                        0.000660502        1514.00        
+MYR Malaysia Ringgits                     0.263114              3.80064     
+MTL Malta Liri                            2.87521               0.347801    
+MXN Mexico Pesos                          0.0875120            11.4270      
+MAD Morocco Dirhams                       0.111788              8.94550     
+NZD New Zealand Dollars                   0.663998              1.50603     
+NGN Nigeria Nairas                        0.00751399          133.085       
+NOK Norway Kroner                         0.146715              6.81592     
+PKR Pakistan Rupees                       0.0169076            59.1450      
+PHP Philippines Pesos                     0.0177211            56.4300      
+XPT Platinum Ounces                     857.000                 0.00116686  
+PLN Poland Zlotych                        0.282087              3.54500     
+ROL Romania Lei                           0.0000299016      33443.01        
+RUR Russia Rubles                         0.0342231            29.2200      
+SAR Saudi Arabia Riyals                   0.266660              3.75010     
+XAG Silver Ounces                         6.50500               0.153728    
+SGD Singapore Dollars                     0.591226              1.69140     
+SKK Slovakia Koruny                       0.0307130            32.5595      
+ZAR South Africa Rand                     0.156312              6.39744     
+KRW South Korea Won                       0.000869720        1149.80        
+SDD Sudan Dinars                          0.00386675          258.615       
+SEK Sweden Kronor                         0.135702              7.36910     
+TWD Taiwan New Dollars                    0.0286369            34.9200      
+THB Thailand Baht                         0.0240753            41.5363      
+TTD Trinidad and Tobago Dollars           0.158876              6.29422     
+TRL Turkey Liras                          0.0000006678    1497500.00        
+AED United Arab Emirates Dirhams          0.272257              3.67300     
+VEB Venezuela Bolivares                   0.000521376        1918.00        
+VND Vietnam Dong                          0.0000635082      15746.00        
+ZMK Zambia Kwacha                         0.000207271        4824.60        
+
+For help reading this mailout, refer to: http://www.xe.com/cus/sample.htm
+____________________________________________________________________________
+
+Copyright
+
+Document and data copyright (c) 2004 XE.com, all rights reserved.
+____________________________________________________________________________
+
+Important: Terms Of Use Agreement
+
+This service is free. There are no charges of any kind for using this
+service. By using this service, you are indicating your agreement with
+the TERMS OF USE AGREEMENT outlined at: http://www.xe.com/legal/
+If you do not agree with these terms, please unsubscribe IMMEDIATELY as
+outlined below. 
+____________________________________________________________________________
+
+Unsubscribing From This Service
+
+You may unsubscribe from this service at any time. The easiest way to do so
+is to use this link:  http://xe.com/cus/uns.cgi?CUS70B93FFA02BB
+
+Alternatively, you can unsubscribe by e-mail. To do so, send a send a message 
+to list@en.ucc.xe.net with the command UNSUBSCRIBE followed by your 
+subscriprion number CUS70B93FFA02BB on the same line. This command can be
+either (a) anywhere in the subject line, or (b) on a line of its own (with
+no other text anywhere on that line) in the message body. Please note
+that CUS70B93FFA02BB is this mailout's unique subscription number. If you 
+receive multiple mailouts, you must unsubscribe from each one separately.
+____________________________________________________________________________
+
+Changing Your Mailout
+
+To change the e-mail address or base currency of your mailout, please 
+unsubscribe as instructed above and resubscribe at: http://www.xe.com/cus/
+The subscription process takes about one minute to complete.
+____________________________________________________________________________
+
+Information And Identification
+
+E-Mail Currency Update Service by XE.com. Visit us at: http://www.xe.com/ 
+Postal address: 330 Bay St, Suite 1109, Toronto, Ontario M5H 2S8 Canada.
+
+For complete information on this service, including the terms if use as 
+well as rate, distribution, and legal information, refer to:
+  http://www.xe.com/faq.htm#cus
+
+"Universal Currency Converter" and "XE" are registered trade marks of
+XE Corporation. "Currency Update Service" is a trade mark of XE Corporation.
+____________________________________________________________________________
+</PRE>
+
